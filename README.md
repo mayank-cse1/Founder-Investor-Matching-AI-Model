@@ -55,6 +55,7 @@ The model operates on a structured dataset containing:
    export GEMINI_API_KEY='your-api-key-here'
    ```
 ### Folder Structure
+```
 /Founder-Investor-Matching-AI-Model
 │── /data
 │   ├── investor.csv
@@ -66,7 +67,7 @@ The model operates on a structured dataset containing:
 │── ui.py
 │── .env
 │── requirements.txt
-
+```
 ### **Running the Model**
 Execute the script to match founders with investors:
 ```bash
