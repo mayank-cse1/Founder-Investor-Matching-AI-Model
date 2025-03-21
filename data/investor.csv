@@ -1,0 +1,6 @@
+Investor_ID,Preferred_Industry,Investment_Range,Preferred_Stage
+I001,FinTech|AI/ML,250000-1000000,Seed|Series A
+I002,HealthTech,1000000-5000000,Series A|Series B
+I003,EduTech|E-Commerce,100000-500000,Pre-Seed|Seed
+I004,AI/ML|DeepTech,2000000-10000000,Series B|Growth
+I005,E-Commerce|FinTech,500000-2000000,Seed|Series A
