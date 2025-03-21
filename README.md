@@ -114,8 +114,22 @@ streamlit run ui.py
 ## Contributing
 Feel free to submit issues and pull requests to improve the model.
 
-## License
-This project is licensed under the MIT License.
+### Future Enhancements 🚀  
+
+1. **Create a Question-Query Mapping for FAQs**  
+   - Develop a structured mapping of frequently asked questions to improve response accuracy.  
+   - Enable quicker retrieval of relevant investor-founder compatibility queries.  
+
+2. **Enhance Context-Rich Evaluation Criteria**  
+   - Introduce additional parameters to refine compatibility scoring.  
+   - Consider factors like cultural alignment, risk appetite, and long-term investment goals.  
+
+3. **Optimize for Scale**  
+   - Improve computational efficiency to handle large datasets.  
+   - Implement batch processing and parallel execution for faster analysis.  
+   - Explore caching mechanisms to reduce redundant API calls.  
+
+These enhancements will improve precision, efficiency, and scalability, making the system more robust and insightful. 🚀
 
 ---
 **Author:** Mayank Gupta  
